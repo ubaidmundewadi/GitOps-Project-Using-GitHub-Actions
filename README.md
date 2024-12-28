@@ -64,7 +64,7 @@ We adhered strictly to the GitOps principles throughout this project:
 ## Diagram
 The architecture and workflow diagram for this project is provided below:
 
-
+![GitOps_Project](https://github.com/user-attachments/assets/41290644-269e-4e57-8bce-03630af1366a)
 
 ---
 
