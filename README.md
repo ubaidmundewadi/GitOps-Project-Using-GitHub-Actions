@@ -35,6 +35,7 @@ Provision and manage AWS infrastructure, including a VPC and an Amazon EKS clust
 
 #### Objective:
 Perform unit testing, code analysis, containerize the application, and deploy it to the EKS cluster.
+Repository URL: ![GitOps_Project](https://github.com/user-attachments/assets/41290644-269e-4e57-8bce-03630af1366a)
 
 #### Workflow Details:
 - **Steps**:
